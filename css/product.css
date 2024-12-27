@@ -1,0 +1,40 @@
+#product-head, #comment, #comments-list {
+    background: #FFF;
+    border-radius: 3px;
+    padding: 10px 0;
+}
+
+#product-details h1, #comment h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#product-details ul li {
+    list-style: none;
+    height: 30px;
+    line-height: 30px;
+}
+
+#product-details ul li span {
+    font-weight: bold;
+}
+
+#price-number {
+    font-size: 20px;
+    font-weight: bold;
+    color: #eb1f27;
+}
+
+#price, #status {
+    border-top: 1px dashed #333333;
+    margin-top: 10px;
+}
+
+#status {
+    font-weight: bold;
+    color: #5cb85c;
+}
+
+#comment, #comments-list {
+    margin-top: 10px;
+}
